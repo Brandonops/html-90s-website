@@ -1,0 +1,113 @@
+
+body {
+    background-image: url("/images/retrobackground.jpg");
+    background-color: blueviolet;
+    font-family: monospace;
+}
+body h1 {
+    font-size: 40px;
+    color:rgb(0, 255, 234);
+    background-color:rgb(204, 0, 255, 0.5);
+    border-radius: 50px;
+    box-shadow: 0px 0px 40px 20px #0ff;
+    position: relative;
+    padding: 25px;
+    top:0;
+    left:0;
+    z-index:1;
+    text-align: center;
+  }
+.navPane img {
+      width: 150px;
+      height: 110px;
+      z-index: 1;
+  }
+
+.navPane #retrosun {
+    position: absolute;
+    left: 15%;
+    bottom: 20%;
+}
+#retrosun figcaption {
+    background-color: rgb(0, 252, 197, 0.8);
+    color: rgb(143, 7, 255);
+    font-size: 25px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 50px;
+  }
+
+.navPane #prism {
+    position: absolute;
+    left: 27%;
+    bottom: 20%;
+}
+#prism figcaption {
+    background-color: rgb(0, 252, 197, 0.8);
+    color: rgb(143, 7, 255);
+    font-size: 25px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 50px;
+  }
+.navPane #cube {
+    position: absolute;
+    left: 38%;
+    bottom: 20%;
+}
+
+#cube figcaption {
+    background-color: rgb(0, 252, 197, 0.8);
+    color: rgb(143, 7, 255);
+    font-size: 25px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 50px;
+  }
+
+.navPane #saturn {
+    position: absolute;
+    left: 61%;
+    bottom: 20%;
+}
+
+#saturn figcaption {
+    background-color: rgb(0, 252, 197, 0.8);
+    color: rgb(143, 7, 255);
+    font-size: 25px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 50px;
+  }
+
+.navPane #phone {
+    position: absolute;
+    left: 72%;
+    bottom: 20%;
+}
+
+#phone figcaption {
+    background-color: rgb(0, 252, 197, 0.8);
+    color: rgb(143, 7, 255);
+    font-size: 25px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 50px;
+  }
+
+.navPane #cubes {
+    padding: 4px;
+    margin: auto;
+    position: absolute;
+    left: 52%;
+    bottom: 21%;
+  }
+  
+  #cubes figcaption {
+    background-color: rgb(0, 252, 197, 0.8);
+    color: rgb(143, 7, 255);
+    font-size: 25px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 50px;
+  }
